@@ -71,7 +71,7 @@ Design Thinking — NPTEL
 
 Full Stack Java Internship — AICTE
 
-Java Internship — CodSoft
+Cloud Virtual Internship - AWS
 
 <h2>🏆 Achievements</h2>
 
