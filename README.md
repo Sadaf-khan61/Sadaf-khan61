@@ -18,7 +18,7 @@ Soft Skills: Problem Solving, Communication, Team Collaboration
 A passionate and detail-oriented Java Backend Developer with hands-on experience in building secure, scalable, and high-performance web applications. Skilled in Java, Spring, JSP, Servlets, JDBC, and MySQL, with a strong foundation in OOP, DSA, and backend architecture.
 Actively seeking opportunities to work on real-time applications and enterprise-level backend systems.
 
-<h2>🧑‍💻 Internships</h2>h2>
+<h2>🧑‍💻 Internships</h2>
 Java Full Stack Developer Intern — AICTE (EduSkills)
 
 📅 Jul 2025 – Sep 2025
