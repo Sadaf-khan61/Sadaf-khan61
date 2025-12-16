@@ -21,7 +21,7 @@ Actively seeking opportunities to work on real-time applications and enterprise-
 <h2>🧑‍💻 Internships</h2>
 <h3>Java Full Stack Developer Intern — AICTE (EduSkills)</h3>
 
-📅 Jul 2025 – Sep 2025
+📅 April 2025 – Jun 2025
 
 Built Java-based web applications using JSP, Servlets, and Spring Boot
 
@@ -29,15 +29,17 @@ Implemented backend modules & business logic
 
 Gained experience in MVC, REST APIs, DAO layers, deployment
 
-<h3>Java Developer Intern — CodSoft</h3>
+<h3>Cloud Virtual Internship - AWS </h3>
 
-📅 Jul 2024 – Aug 2024
+📅 Jul 2025 – Sep 2025
 
-Developed multiple Java mini applications
+Completed a Cloud Virtual Internship, gaining hands-on experience with cloud computing fundamentals
 
-Applied OOP concepts: inheritance, encapsulation, polymorphism
+Worked on cloud-based tasks involving virtual machines, storage, and deployment concepts
 
-Wrote optimized and clean Java code
+Applied core concepts of cloud architecture, scalability, and security basics
+
+Developed practical understanding of cloud services and real-world use cases
 
 <h2>🏗 Academic Projects</h2>
 <h3>Banking System (Java, JDBC)</h3>
