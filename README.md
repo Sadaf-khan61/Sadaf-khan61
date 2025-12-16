@@ -19,7 +19,7 @@ A passionate and detail-oriented Java Backend Developer with hands-on experience
 Actively seeking opportunities to work on real-time applications and enterprise-level backend systems.
 
 <h2>🧑‍💻 Internships</h2>
-Java Full Stack Developer Intern — AICTE (EduSkills)
+<h3>Java Full Stack Developer Intern — AICTE (EduSkills)</h3>
 
 📅 Jul 2025 – Sep 2025
 
@@ -29,7 +29,7 @@ Implemented backend modules & business logic
 
 Gained experience in MVC, REST APIs, DAO layers, deployment
 
-Java Developer Intern — CodSoft
+<h3>Java Developer Intern — CodSoft</h3>
 
 📅 Jul 2024 – Aug 2024
 
