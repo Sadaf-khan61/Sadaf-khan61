@@ -63,12 +63,6 @@ Galgotias University, Greater Noida
 📅 2023–2027
 CGPA: 9.38/10
 
-Class XII (CBSE) — Shah Faiz, Ghazipur
-📊 83.4%
-
-Class X (CBSE) — Gauri Shankar, Ghazipur
-📊 77%
-
 <h2>🏅 Certifications</h2>
 
 Design Thinking — NPTEL
