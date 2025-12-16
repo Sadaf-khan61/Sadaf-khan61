@@ -40,7 +40,7 @@ Applied OOP concepts: inheritance, encapsulation, polymorphism
 Wrote optimized and clean Java code
 
 <h2>🏗 Academic Projects</h2>
-Banking System (Java, JDBC)
+<h3>Banking System (Java, JDBC)</h3>
 
 Console-based banking management system
 
@@ -48,7 +48,7 @@ Features: account creation, withdrawal, deposit, balance inquiry, transfer
 
 MySQL used for storing customer + transaction data
 
-Hotel Reservation System (Java)
+<h3>Hotel Reservation System (Java)</h3>
 
 Console-based room booking system
 
@@ -79,7 +79,7 @@ Java Internship — CodSoft
 
 <h2>🏆 Achievements</h2>
 
-Strong academic performance (CGPA 8.8)
+Strong academic performance (CGPA 9.38)
 
 Built multiple Java applications independently
 
