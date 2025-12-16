@@ -4,11 +4,11 @@ Java Backend Developer | B.Tech CSE ’27 | Galgotias University
 
 <h2>🔧 Technical Skills</h2>
 
-Programming Languages: Java
-Frameworks & Tools: Spring, Spring Boot, JSP, Servlets, Maven, JDBC
-Databases: MySQL, SQL
-Core Concepts: OOP, Data Structures & Algorithms, MVC Architecture
-Developer Tools: Git, GitHub, IntelliJ IDEA, Eclipse
+Programming Languages: Java<br>
+Frameworks & Tools: Spring, Spring Boot, JSP, Servlets, Maven, JDBC<br>
+Databases: MySQL, SQL<br>
+Core Concepts: OOP, Data Structures & Algorithms, MVC Architecture<br>
+Developer Tools: Git, GitHub, IntelliJ IDEA, Eclipse<br>
 Soft Skills: Problem Solving, Communication, Team Collaboration
 
 🎖️ Badges
