@@ -83,6 +83,6 @@ Solved 400+ DSA problems on various platforms
 
 <h2>📊 GitHub Stats</h2>
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadaf-khan61&show_icons=true&theme=default)
+![Sadaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadaf-khan61&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf-khan61&layout=compact&theme=default)
