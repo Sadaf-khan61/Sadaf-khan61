@@ -79,7 +79,7 @@ Strong academic performance (CGPA 9.38)
 
 Built multiple Java applications independently
 
-Solved 400+ DSA problems on various platforms
+Solved 900+ DSA problems on various platforms
 
 <h2>📊 GitHub Stats</h2>
 
