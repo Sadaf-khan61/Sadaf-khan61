@@ -37,22 +37,13 @@ Actively seeking opportunities to work on real-time applications and enterprise-
 - Developed practical understanding of cloud services and real-world use cases
 <h2>🏗 Academic Projects</h2>
 <h3>🛡️ SafeHer — AI-Powered Women Safety App (Java, Spring Boot, MySQL, HTML/CSS/JS)</h3>
-
+ 
 🔗 **Live:** https://safeher-a-women-saftey-app.onrender.com
-
+ 
 - Built a full-stack women safety web application with Spring Boot REST API backend and mobile-first HTML/JS frontend, deployed live on Render.com with cloud MySQL on Aiven
 - Implemented one-tap SOS alert system with real-time GPS location capture and automatic event logging to database
 - Developed AI FIR Generator that converts user's description into a formal legal police complaint
 - Built Evidence Vault with encrypted audio/video recording, Community Safety module with Guardian Angel mode, and Escape Tools including fake call simulator
-
-<h3>Banking System (Java, JDBC)</h3>
-- Console-based banking management system
-- Features: account creation, withdrawal, deposit, balance inquiry, transfer
-- MySQL used for storing customer + transaction data
-<h3>Hotel Reservation System (Java)</h3>
-- Console-based room booking system
-- Features: user registration, login, room view, booking, cancellation
-- Focus on clean OOP design
 <h2>🎓 Education</h2>
 B.Tech in Computer Science & Engineering
 Galgotias University, Greater Noida
