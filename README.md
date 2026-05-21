@@ -81,7 +81,7 @@ public class Sadaf extends Developer {
 
 ### 🛡️ SafeHer — AI-Powered Women Safety App
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20App-7c6af7?style=for-the-badge)](https://safeher-a-women-saftey-app.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20App-7c6af7?style=for-the-badge)](https://safeher-a-women-saftey-app-ihco.onrender.com)
 
 </div>
 
