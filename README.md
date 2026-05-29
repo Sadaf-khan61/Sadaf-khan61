@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">💻 Building Scalable Backend Systems | Java • Spring Boot • Microservices</h3>
+<h3 align="center">💻 Java Backend Developer | Java • Spring Boot • Microservices</h3>
 
 <div align="center">
 
@@ -18,8 +18,8 @@
 
 - 👨‍💻 Java Backend Developer passionate about scalable systems  
 - 🎓 B.Tech CSE @ Galgotias University (2023–2027)  
-- ⭐ CGPA: **9.38 / 10**  
-- 🧠 Solved **900+ DSA problems**  
+- ⭐ CGPA: **9.45 / 10**  
+- 🧠 Solved **1000+ DSA problems**  
 - 🚀 Currently learning **Spring Security, Microservices, AWS**  
 - 💼 Looking for **Backend / Full Stack Opportunities**  
 
@@ -31,7 +31,7 @@
 public class Sadaf extends Developer {
 
     String role = "Java Backend Developer";
-    String focus = "Scalable Systems & Clean Architecture";
+    String focus = "Backend Development & Problem Solving";
 
     String[] skills = {
         "Java", "Spring Boot", "REST APIs", "MySQL"
@@ -112,7 +112,7 @@ public class Sadaf extends Developer {
 
 | University | Degree | Year | CGPA |
 |----------|--------|------|------|
-| Galgotias University | B.Tech CSE | 2023–2027 | **9.38** |
+| Galgotias University | B.Tech CSE | 2023–2027 | **9.45** |
 
 ---
 
@@ -121,7 +121,8 @@ public class Sadaf extends Developer {
 - 🎓 Design Thinking — NPTEL  
 - ☕ Full Stack Java — AICTE  
 - ☁️ Cloud Internship — AWS  
-
+- 🧪 Software Testing — NPTEL
+  
 ---
 
 # 📊 GitHub Stats
